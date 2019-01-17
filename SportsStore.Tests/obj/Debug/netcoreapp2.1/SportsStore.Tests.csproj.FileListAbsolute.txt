@@ -1,7 +1,3 @@
-C:\projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csprojResolveAssemblyReference.cache
-C:\projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csproj.CoreCompileInputs.cache
-C:\projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfoInputs.cache
-C:\projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfo.cs
 C:\projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Views.dll
 C:\projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Views.pdb
 C:\projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -12,7 +8,13 @@ C:\projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Te
 C:\projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.runtimeconfig.dev.json
 C:\projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.dll
 C:\projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.pdb
+C:\projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.dll
 C:\projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.dll
 C:\projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.pdb
+C:\projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.xml
+C:\projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csprojResolveAssemblyReference.cache
+C:\projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfoInputs.cache
+C:\projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfo.cs
 C:\projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.dll
 C:\projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.pdb
