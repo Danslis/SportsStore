@@ -24,3 +24,6 @@ C:\projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.Views.pd
 C:\projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.dll
 C:\projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.pdb
 C:\projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CopyComplete
+C:\projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.g.cshtml.cs
+C:\projects\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs

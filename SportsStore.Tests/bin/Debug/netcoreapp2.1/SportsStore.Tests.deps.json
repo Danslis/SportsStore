@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "82ceae6c3cc2be710e6467a2fc20634109cbddd6"
+    "signature": "d8eb5e82184adaf0b2a704902702261ae573c032"
   },
   "compilationOptions": {},
   "targets": {
@@ -20,12 +20,6 @@
         },
         "runtime": {
           "SportsStore.Tests.dll": {}
-        }
-      },
-      "bootstrap/4.2.1": {
-        "dependencies": {
-          "jQuery": "3.0.0",
-          "popper.js": "1.14.0"
         }
       },
       "Castle.Core/4.1.1": {
@@ -59,7 +53,6 @@
           }
         }
       },
-      "jQuery/3.0.0": {},
       "Microsoft.AspNet.Razor/3.2.7": {
         "runtime": {
           "lib/net45/System.Web.Razor.dll": {
@@ -904,7 +897,6 @@
           }
         }
       },
-      "popper.js/1.14.0": {},
       "runtime.native.System/4.3.0": {},
       "System.AppContext/4.1.0": {
         "dependencies": {
@@ -1636,8 +1628,7 @@
       },
       "SportsStore/1.0.0": {
         "dependencies": {
-          "EntityFramework": "6.2.0",
-          "bootstrap": "4.2.1"
+          "EntityFramework": "6.2.0"
         },
         "runtime": {
           "SportsStore.dll": {}
@@ -1659,13 +1650,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "bootstrap/4.2.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-M6STZibpxu+oRhLVY1bVnTBx7J0SMSyF1j5pVN+QFEW4X7CnQgNhbl1iLweLFLCQh0oJlOIWgwyCbGDEWm1q/Q==",
-      "path": "bootstrap/4.2.1",
-      "hashPath": "bootstrap.4.2.1.nupkg.sha512"
-    },
     "Castle.Core/4.1.1": {
       "type": "package",
       "serviceable": true,
@@ -1679,13 +1663,6 @@
       "sha512": "sha512-+aB/cnEAr9KqVMjmZwu+Fzy3EOPjCIzNsPAUyn19WbB2u3LFHd2OB3X56ohAj7EBf2hppl9M27nlRnkQxOhoAA==",
       "path": "entityframework/6.2.0",
       "hashPath": "entityframework.6.2.0.nupkg.sha512"
-    },
-    "jQuery/3.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-FXANjZia/vux9/ObNiPwh2zNWuzcgHMKXia1OQrviuf0OKPBWB2TBIVAICgtObuzEW+XLyaBEoVuOUlMXy0kNA==",
-      "path": "jquery/3.0.0",
-      "hashPath": "jquery.3.0.0.nupkg.sha512"
     },
     "Microsoft.AspNet.Razor/3.2.7": {
       "type": "package",
@@ -2050,13 +2027,6 @@
       "sha512": "sha512-5PYT/IqQ+UK31AmZiSS102R6EsTo+LGTSI8bp7WAUqDKaF4wHXD8U9u4WxTI1vc64tYi++8p3dk3WWNqPFgldw==",
       "path": "newtonsoft.json.bson/1.0.1",
       "hashPath": "newtonsoft.json.bson.1.0.1.nupkg.sha512"
-    },
-    "popper.js/1.14.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-oamtAIKoHa/s45chV0TozJhrwTRUBURUVjFl1wHw1MrCplFDxmK41CMrMDQx1Eq08n7oEzqSHEPPWCdA6Mhb1w==",
-      "path": "popper.js/1.14.0",
-      "hashPath": "popper.js.1.14.0.nupkg.sha512"
     },
     "runtime.native.System/4.3.0": {
       "type": "package",
